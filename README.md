@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img style="width:100vw" src="./download.gif" alt="Gif/SwasthK">
+<img style="width:80vw" src="./download.gif" alt="Sathwik/Gif">
