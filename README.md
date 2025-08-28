@@ -1,7 +1,7 @@
 ## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<p><b>Scroll Down for Imp...........</b></p>
 I'm Sathwik M S
 <p>Learning to craft clean, modern web apps that are fast, functional, and scalable.</p>
-<p><b>Scroll Down for Imp...........</b></p>
 <ul>
     <li>Aspiring Web Developer</li>
     <li>Lifelong Learner</li>
@@ -49,4 +49,4 @@ learning and developing clean, modern web applications using best practices in d
     <a href="https://sathwikms.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </div>
 
-<code><h1>"Boredom + Repetition + Consistency = Mastery."</h1></code>
+<code><h2>"Boredom + Repetition + Consistency = Mastery."</h2></code>
