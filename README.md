@@ -6,11 +6,11 @@ I'm Sathwik M S
 </ul>
 I'm currently learning web development and enjoy experimenting with HTML, CSS, and JavaScript. I love building websites, trying out new technologies, and sharing my progress.
 Excited to keep growing and connect with other learners and developers!
-&nbsp;
+<hr>
 <center><img style="width:50vw; border-radius:10px;" src="./download.gif" alt="Sathwik/Gif"></center>
-&nbsp;
+<hr>
 Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's the motto.
-
+<hr>
 # Skills
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,7 +24,7 @@ Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)" />
 </div>
-
+<hr>
 # Social
 <div>
     <a href="https://www.linkedin.com/in/sathwik-m-s-/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_"></a>
