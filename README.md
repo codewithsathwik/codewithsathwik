@@ -23,7 +23,7 @@ Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's 
 </div>
 
 # Social
-<div style="display:flex; justify-content:center; align-items:center;">
+<div style="display:flex; flex-direction:column">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
