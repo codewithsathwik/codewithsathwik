@@ -1,6 +1,7 @@
 ## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I'm Sathwik M S
 <p>Learning to craft clean, modern web apps that are fast, functional, and scalable.</p>
+<p><b>Scroll Down for Imp...........</b></p>
 <ul>
     <li>Aspiring Web Developer</li>
     <li>Lifelong Learner</li>
