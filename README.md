@@ -9,4 +9,4 @@ Excited to keep growing and connect with other learners and developers!
 Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's the motto.
 
 # Skills
-![image]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white})
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)" />
