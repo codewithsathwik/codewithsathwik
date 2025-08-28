@@ -29,3 +29,6 @@ Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's 
     <a href="https://www.instagram.com/sathvvik_ms/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://sathwikms.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </div>
+
+[![sathwiks GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsathwik)](https://github.com/anuraghazra/github-readme-stats)
+
