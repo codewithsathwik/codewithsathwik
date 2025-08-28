@@ -7,11 +7,11 @@ I'm Sathwik M S
 </ul>
 I'm currently learning web development and enjoy experimenting with HTML, CSS, and JavaScript. I love building websites, trying out new technologies, and sharing my progress.
 Excited to keep growing and connect with other learners and developers!
-<hr>
+
 
 <center><img style="width:50vw; border-radius:10px;" src="./download.gif" alt="Sathwik/Gif"></center>
 
-<hr>
+
 
 Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's the motto.
 ### Intrested in
@@ -22,7 +22,7 @@ Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's 
 ### My Goal
 learning and developing clean, modern web applications using best practices in design, performance, and maintainability.
 
-<hr>
+
 
 # Skills
 <div>
@@ -38,7 +38,7 @@ learning and developing clean, modern web applications using best practices in d
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)" />
 </div>
 
-<hr>
+
 
 # Social
 <div>
