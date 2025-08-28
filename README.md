@@ -1,4 +1,4 @@
-## Hi there  
+## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I'm Sathwik M S
 <ul>
     <li>Aspiring Web Developer</li>
@@ -13,14 +13,14 @@ Excited to keep growing and connect with other learners and developers!
 <hr>
 
 Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's the motto.
-Intrested in
+### Intrested in
 <ul>
     <li>Web technologies</li>
     <li>Movies</li>
     <li>Animation</li>
 </ul>
 
-My Goal
+### My Goal
 To learn and build clean web applictaion.
 
 <hr>
