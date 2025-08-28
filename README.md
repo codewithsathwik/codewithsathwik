@@ -7,3 +7,5 @@ Excited to keep growing and connect with other learners and developers!
 <center><img style="width:60vw" src="./download.gif" alt="Sathwik/Gif"></center>
 
 Is it perfect? score === 10 ? 'Ship it' : 'Refactor it' — that's the motto.
+
+
