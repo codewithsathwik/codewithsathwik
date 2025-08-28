@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 I'm Sathwik M S
 Aspiring Web Developer · Lifelong Learner
 I'm currently learning web development and enjoy experimenting with HTML, CSS, and JavaScript. I love building websites, trying out new technologies, and sharing my progress.
@@ -8,4 +8,5 @@ Excited to keep growing and connect with other learners and developers!
 
 Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's the motto.
 
-
+# Skills
+![image]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white})
