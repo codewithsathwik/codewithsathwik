@@ -4,7 +4,7 @@ Aspiring Web Developer · Lifelong Learner
 I'm currently learning web development and enjoy experimenting with HTML, CSS, and JavaScript. I love building websites, trying out new technologies, and sharing my progress.
 Excited to keep growing and connect with other learners and developers!
 
-<center><img style="width:60vw" src="./download.gif" alt="Sathwik/Gif"></center>
+<center><img style="width:50vw" src="./download.gif" alt="Sathwik/Gif"></center>
 
 Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's the motto.
 
@@ -29,6 +29,4 @@ Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's 
     <a href="https://www.instagram.com/sathvvik_ms/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://sathwikms.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </div>
-
-[![sathwiks GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsathwik)](https://github.com/anuraghazra/github-readme-stats)
 
