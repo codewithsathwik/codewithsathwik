@@ -7,22 +7,22 @@ I'm Sathwik M S
 </ul>
 I'm currently learning web development and enjoy experimenting with HTML, CSS, and JavaScript. I love building websites, trying out new technologies, and sharing my progress.
 Excited to keep growing and connect with other learners and developers!
-
+<br>
 
 <center><img style="width:50vw; border-radius:10px;" src="./download.gif" alt="Sathwik/Gif"></center>
 
-
+<br>
 
 Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's the motto.
 ### Intrested in
 - Web technologies
 - Movies
 - Animation
-
+<br>
 ### My Goal
 learning and developing clean, modern web applications using best practices in design, performance, and maintainability.
 
-
+<br>
 
 # Skills
 <div>
@@ -38,7 +38,7 @@ learning and developing clean, modern web applications using best practices in d
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)" />
 </div>
 
-
+<br>
 
 # Social
 <div>
@@ -46,6 +46,5 @@ learning and developing clean, modern web applications using best practices in d
     <a href="https://x.com/_sathvikms">  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
     <a href="https://www.instagram.com/sathvvik_ms/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://sathwikms.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-</div>
-
+</div><br>
 <code><h1>"Boredom + Repetition + Consistency = Mastery."</h1></code>
