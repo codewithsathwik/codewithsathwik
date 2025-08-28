@@ -1,5 +1,6 @@
 ## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 I'm Sathwik M S
+Learning to craft clean, modern web apps that are fast, functional, and scalable.
 <ul>
     <li>Aspiring Web Developer</li>
     <li>Lifelong Learner</li>
@@ -14,14 +15,12 @@ Excited to keep growing and connect with other learners and developers!
 
 Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's the motto.
 ### Intrested in
-<ul>
-    <li>Web technologies</li>
-    <li>Movies</li>
-    <li>Animation</li>
-</ul>
+- Web technologies
+- Movies
+- Animation
 
 ### My Goal
-To learn and build clean web applictaion.
+learning and developing clean, modern web applications using best practices in design, performance, and maintainability.
 
 <hr>
 
