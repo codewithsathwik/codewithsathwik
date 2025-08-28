@@ -7,7 +7,7 @@ I'm Sathwik M S
 I'm currently learning web development and enjoy experimenting with HTML, CSS, and JavaScript. I love building websites, trying out new technologies, and sharing my progress.
 Excited to keep growing and connect with other learners and developers!
 
-<center><img style="width:50vw border-radius:10px" src="./download.gif" alt="Sathwik/Gif"></center>
+<center><img style="width:50vw; border-radius:10px;" src="./download.gif" alt="Sathwik/Gif"></center>
 
 Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's the motto.
 
