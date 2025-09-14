@@ -15,6 +15,7 @@ Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's 
 - Movies
 - Animation
 <br>
+
 ### My Goal
 learning and developing clean, modern web applications using best practices in design, performance, and maintainability.
 
