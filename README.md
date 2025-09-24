@@ -47,4 +47,4 @@ learning and developing clean, modern web applications using best practices in d
     <a href="https://sathwikms.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </div>
 
-<code><span style="color : red">"Reminder : phone was invented to keep people connected."</span></code>
+<code><h2 style="color : red;">"Reminder : phone was invented to keep people connected."</h2></code>
