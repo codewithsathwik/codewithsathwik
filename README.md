@@ -13,6 +13,7 @@ Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's 
 
 ### Intrested in
 - Web technologies
+- Open Source
 - Animation
 <br>
 
