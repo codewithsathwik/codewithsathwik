@@ -10,9 +10,9 @@ I'm currently learning web development and enjoy experimenting with HTML, CSS, a
 Excited to keep growing and connect with other learners and developers!
 <br>
 Is it perfect? <code>score === 10 ? 'Ship it' : 'Refactor it'</code> — that's the motto.
+
 ### Intrested in
 - Web technologies
-- Movies
 - Animation
 <br>
 
