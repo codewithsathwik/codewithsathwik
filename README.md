@@ -43,8 +43,8 @@ learning and developing clean, modern web applications using best practices in d
 <div>
     <a href="https://www.linkedin.com/in/sathwik-m-s-/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
     <a href="https://x.com/_sathvikms">  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-    <a href="https://www.instagram.com/sathvvik_ms/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <!-- <a href="https://www.instagram.com/sathvvik_ms/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
     <a href="https://sathwikms.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </div>
 
-<code><h2>"Reminder : phone was invented to keep people connected."</h2></code>
+<!-- <code><h2>"Reminder : phone was invented to keep people connected."</h2></code> -->
